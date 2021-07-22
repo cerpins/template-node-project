@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+# Template project
+
+Includes
+
+- React (React Create App)
+- Typescript
+- Sass
+- Proxied backend for API on nodemon
+
+start with `npm run launch`
+
+---
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
